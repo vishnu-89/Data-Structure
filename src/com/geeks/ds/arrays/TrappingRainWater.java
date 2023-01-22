@@ -9,8 +9,7 @@ public class TrappingRainWater {
     public static void main(String args[]) {
         int ar[] = {5, 0, 6, 2, 3}, n = 5;
 
-        System.out.println( "The total water can be trapped "+trappingRainWater(ar, ar.length));
-
+        System.out.println( "The total water can be trapped1 : "+trappingRainWater(ar, ar.length));
     }
 
     static int trappingRainWater(int arr[], int n) {

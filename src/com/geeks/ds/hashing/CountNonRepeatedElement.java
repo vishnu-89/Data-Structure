@@ -31,4 +31,5 @@ public class CountNonRepeatedElement {
         }
         return -1;
     }
+
 }
